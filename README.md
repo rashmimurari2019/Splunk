@@ -69,3 +69,8 @@ Create branch and push
 Open pull request
 Check GitHub App Recent Deliveries shows 200
 Check Jenkins created branch or PR build
+
+Webhook test update
+
+This is a test commit to verify GitHub App webhook delivery to Jenkins Multibranch Pipeline.
+Timestamp: 2026-07-08
